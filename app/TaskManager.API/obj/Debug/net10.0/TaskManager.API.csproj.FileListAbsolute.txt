@@ -81,3 +81,13 @@
 /Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.API/obj/Debug/net10.0/TaskManager.API.pdb
 /Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.API/obj/Debug/net10.0/TaskManager.API.genruntimeconfig.cache
 /Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.API/obj/Debug/net10.0/ref/TaskManager.API.dll
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.API/bin/Debug/net10.0/BCrypt-Net-Next.dll
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.API/bin/Debug/net10.0/Microsoft.Bcl.Cryptography.dll
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.API/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.API/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.API/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.API/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.API/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.API/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.API/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.API/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

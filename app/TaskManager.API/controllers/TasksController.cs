@@ -3,9 +3,11 @@ using Microsoft.EntityFrameworkCore;
 using TaskManager.Application.Common.Interfaces;
 using TaskManager.Application.DTOs;
 using TaskManager.Domain.Entities;
+using Microsoft.AspNetCore.Authorization;
 
 namespace TaskManager.API.Controllers;
 
+[Authorize]
 [ApiController]
 [Route("api/[controller]")]
 public class TasksController : ControllerBase{

@@ -3,6 +3,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using TaskManager.Application.Common.Interfaces;
 using TaskManager.Infrastructure.Data;
+using TaskManager.Infrastructure.Authentication; 
 
 namespace TaskManager.Infrastructure;
 
@@ -16,6 +17,8 @@ public static class DependencyInjection{
         }
         services.AddDbContext<AppDbContext>(options =>options.UseMongoDB(connectionString, "TaskManagerDB"));
         services.AddScoped<IApplicationDbContext>(provider => provider.GetRequiredService<AppDbContext>());
+        services.AddScoped<JwtTokenGenerator>();
+
         return services;
 
     }
