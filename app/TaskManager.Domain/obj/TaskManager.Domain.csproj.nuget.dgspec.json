@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anandhu/Desktop/TaskManagerApp/TaskManager.Domain/TaskManager.Domain.csproj": {}
+    "/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Domain/TaskManager.Domain.csproj": {}
   },
   "projects": {
-    "/Users/anandhu/Desktop/TaskManagerApp/TaskManager.Domain/TaskManager.Domain.csproj": {
+    "/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Domain/TaskManager.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anandhu/Desktop/TaskManagerApp/TaskManager.Domain/TaskManager.Domain.csproj",
+        "projectUniqueName": "/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Domain/TaskManager.Domain.csproj",
         "projectName": "TaskManager.Domain",
-        "projectPath": "/Users/anandhu/Desktop/TaskManagerApp/TaskManager.Domain/TaskManager.Domain.csproj",
+        "projectPath": "/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Domain/TaskManager.Domain.csproj",
         "packagesPath": "/Users/anandhu/.nuget/packages/",
-        "outputPath": "/Users/anandhu/Desktop/TaskManagerApp/TaskManager.Domain/obj/",
+        "outputPath": "/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anandhu/.nuget/NuGet/NuGet.Config"

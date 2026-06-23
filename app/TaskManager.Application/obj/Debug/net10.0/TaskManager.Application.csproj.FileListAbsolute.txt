@@ -1,0 +1,16 @@
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Application/bin/Debug/net10.0/TaskManager.Application.deps.json
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Application/bin/Debug/net10.0/TaskManager.Application.dll
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Application/bin/Debug/net10.0/TaskManager.Application.pdb
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Application/bin/Debug/net10.0/TaskManager.Domain.dll
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Application/bin/Debug/net10.0/TaskManager.Domain.pdb
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Application/obj/Debug/net10.0/TaskManager.Application.csproj.AssemblyReference.cache
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Application/obj/Debug/net10.0/TaskManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Application/obj/Debug/net10.0/TaskManager.Application.AssemblyInfoInputs.cache
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Application/obj/Debug/net10.0/TaskManager.Application.AssemblyInfo.cs
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Application/obj/Debug/net10.0/TaskManager.Application.csproj.CoreCompileInputs.cache
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Application/obj/Debug/net10.0/TaskManager.Application.sourcelink.json
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Application/obj/Debug/net10.0/TaskMana.898BD9DB.Up2Date
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Application/obj/Debug/net10.0/TaskManager.Application.dll
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Application/obj/Debug/net10.0/refint/TaskManager.Application.dll
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Application/obj/Debug/net10.0/TaskManager.Application.pdb
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Application/obj/Debug/net10.0/ref/TaskManager.Application.dll

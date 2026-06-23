@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/+GpAiDkn6k=",
+  "dgSpecHash": "l1uAgRMed3I=",
   "success": true,
-  "projectFilePath": "/Users/anandhu/Desktop/TaskManagerApp/TaskManager.Domain/TaskManager.Domain.csproj",
+  "projectFilePath": "/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Domain/TaskManager.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
