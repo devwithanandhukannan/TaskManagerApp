@@ -3,4 +3,16 @@
 GET {{TaskManager.API_HostAddress}}/weatherforecast/
 Accept: application/json
 
-###
+### 1. create a new task (POST)
+POST {{TaskManager.API_HostAddress}}/api/Tasks
+Content-Type: application/json
+
+{
+  "title": "Finish my Clean Architecture setup",
+  "userId": "anandhu_123"
+}
+
+### 2. get tasks (GET)
+
+GET {{TaskManager.API_HostAddress}}/api/Tasks
+Content-Type: application/json

@@ -1,0 +1,12 @@
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Domain/bin/Debug/net10.0/TaskManager.Domain.deps.json
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Domain/bin/Debug/net10.0/TaskManager.Domain.dll
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Domain/bin/Debug/net10.0/TaskManager.Domain.pdb
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Domain/obj/Debug/net10.0/TaskManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Domain/obj/Debug/net10.0/TaskManager.Domain.AssemblyInfoInputs.cache
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Domain/obj/Debug/net10.0/TaskManager.Domain.AssemblyInfo.cs
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Domain/obj/Debug/net10.0/TaskManager.Domain.csproj.CoreCompileInputs.cache
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Domain/obj/Debug/net10.0/TaskManager.Domain.sourcelink.json
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Domain/obj/Debug/net10.0/TaskManager.Domain.dll
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Domain/obj/Debug/net10.0/refint/TaskManager.Domain.dll
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Domain/obj/Debug/net10.0/TaskManager.Domain.pdb
+/Users/anandhu/Desktop/TaskManagerApp/app/TaskManager.Domain/obj/Debug/net10.0/ref/TaskManager.Domain.dll
